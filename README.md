@@ -1,2 +1,2 @@
 # hello-world
-“This repository is for practicing the GitHub Flow.”
+“I am chaithanya. I just created my first branch as readme-edits under my main branch.”
